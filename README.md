@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Gatsby-663399?style=flat-square&logo=Gatsby&logoColor=white"/></a>&nbsp
 </p>
 
-<h3 align="center">Contect</h3>
+<h3 align="center">Contact</h3>
 <p align="center">
   <a href="mailto:sjunhwan0901@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=sjunhwan0901@gmail.com"/></a>
   <a href="https://www.instagram.com/speaork/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/speaork/"/></a>&nbsp
