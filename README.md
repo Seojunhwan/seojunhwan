@@ -23,5 +23,13 @@
 <!--   <a href="https://www.instagram.com/speaork/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/speaork/"/></a>&nbsp -->
 </p>
 
+
+
 <h3 align="center">Blog</h3>
-<p align="center"><img src="https://img.shields.io/badge/Next.js-%23000000?style=flat-square&logo=Next.js&logoColor=white"/> 로 뚝딱뚝딱 개발 중 </p>
+
+
+<p align="center">
+  <a href="https://gamguma-blog.vercel.app/">
+    <img src="https://img.shields.io/badge/Gamguma Blog-B9ACDA?style=for-the-badge"/>
+  </a>
+</p>
