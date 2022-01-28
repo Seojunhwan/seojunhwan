@@ -29,7 +29,7 @@
 
 
 <p align="center">
-  <a href="https://gamguma-blog.vercel.app/">
+  <a href="https://gamguma.dev/">
     <img src="https://img.shields.io/badge/Gamguma Blog-B9ACDA?style=for-the-badge"/>
   </a>
 </p>
