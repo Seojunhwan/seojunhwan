@@ -13,7 +13,7 @@
   <br>
   <img src="https://img.shields.io/badge/React-white?style=flat-square&logo=React&logoColor=%2361DAFB"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Next.js-%23000000?style=flat-square&logo=Next.js&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
+<!--   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp -->
 <!--   <img src="https://img.shields.io/badge/Gatsby-663399?style=flat-square&logo=Gatsby&logoColor=white"/></a>&nbsp -->
 </p>
 
