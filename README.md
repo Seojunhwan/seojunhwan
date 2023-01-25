@@ -4,6 +4,10 @@
 <p align="center"> 프론트엔드에 관심이 많으며 <strong>React, TypeScript</strong> 를 좋아합니다! </p>
 <p align="center"> 특히, 재사용성이 높은 컴포넌트와 유저 친화적 UX, 최적화를 집중적으로 공부할 예정입니다. </p>
 
+<p align="center">
+  <a href="https://wakatime.com/@cb5f790b-b4d8-4c12-9c42-ca5dd747cf7b"><img src="https://wakatime.com/badge/user/cb5f790b-b4d8-4c12-9c42-ca5dd747cf7b.svg" alt="Total time coded since Dec 19 2020" /></a>
+</p>
+
 <h3 align="center">Tech</h3>
 
 <p align="center">
@@ -14,7 +18,7 @@
   <img src="https://img.shields.io/badge/React-white?style=flat-square&logo=React&logoColor=%2361DAFB"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Next.js-%23000000?style=flat-square&logo=Next.js&logoColor=white"/></a>&nbsp
   <br>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/></a>&nbsp
+<!--   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/></a>&nbsp -->
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp
   
