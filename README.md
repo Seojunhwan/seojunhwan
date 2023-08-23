@@ -1,8 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=ff9999&height=150&animation=twinkling&section=header&text=JunhwanSeo&fontSize=75&fontColor=4B5A78)
+![header](https://capsule-render.vercel.app/api?type=soft&color=222222&height=150&animation=twinkling&section=header&text=JunhwanSeo&fontSize=75&fontColor=ffffff)
 
-<h3 align="center"> 안녕하세요!   <img src="https://img.shields.io/badge/42Seoul-%23000000?style=flat-square&logo=42&logoColor=white&link=https://profile.intra.42.fr/users/junseo"/> 에서 공부 중인 junseo 입니다! </h3>
-<p align="center"> 프론트엔드에 관심이 많으며 <strong>React, TypeScript</strong> 를 좋아합니다! </p>
-<p align="center"> 특히, 재사용성이 높은 컴포넌트와 유저 친화적 UX, 최적화를 집중적으로 공부할 예정입니다. </p>
+
 
 <p align="center">
   <a href="https://wakatime.com/@cb5f790b-b4d8-4c12-9c42-ca5dd747cf7b"><img src="https://wakatime.com/badge/user/cb5f790b-b4d8-4c12-9c42-ca5dd747cf7b.svg" alt="Total time coded since Dec 19 2020" /></a>
