@@ -4,6 +4,3 @@
 <p align="center">
 <a href="https://gamguma.dev/"> Blog </a>
 </p>
-<a href="https://hhpluscertificateofcompletion.oopy.io/">
-  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
-</a>
